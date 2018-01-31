@@ -1,1 +1,2 @@
-echo "Hello World\!" 
+git statecho "Hello World!" 
+
